@@ -9,7 +9,7 @@ The goal of this project is to practice **front-end development, responsive desi
 
 ## 📸 Project Preview
 
-![Zomato Clone Screenshot](image/project-preview.png)
+![Zomato Clone Screenshot](‪C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-03-10 103945.png)
 
 ---
 
